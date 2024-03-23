@@ -1,0 +1,263 @@
+.about{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+body{
+    background-image: url(background.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* margin-left: 20px; */
+}
+h2{
+    padding-left: px;
+    float: left;
+}
+.intro2{
+    font-size: 20px;
+    width: 600px;
+    border: 2px solid  none;
+    margin-left: 20px;
+    word-spacing: 2px;
+    line-height: 1.5;
+    float: left;
+    
+}
+.intro{
+    font-size: 30px;
+    padding-left: 50px;
+    
+}
+.bn33 {
+  border: 5em;
+  cursor: pointer;
+  outline: none;
+  font-size: 16px;
+  -webkit-transform: translate(0);
+  transform: translate(0);
+  background-image: linear-gradient(45deg, #4568dc, #b06ab3);
+  padding: 0.7em 2em;
+  border-radius: 1px;
+  box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+  -webkit-transition: box-shadow 0.25s;
+  transition: box-shadow 0.25s;
+  color: white;
+}
+.education{
+    width: 300px;
+    height: auto;
+    line-height: 1.5;
+    float: left;
+    padding-left: 25px;
+    font-size: 18px;
+}
+.edu1{
+    padding-left: 25px;
+    font-size: 18px;
+    line-height: 1.5;
+    float: left;
+   
+}
+.edu{
+    height: auto;
+    width: 700px;
+    float: right;
+    padding-right: 150px;
+    
+}
+
+
+
+/*contact*/
+.logo-1{
+    width: 40px;
+    height: 40px;
+    float: inline-start;
+}
+.container{
+    height: auto;
+    width: 500px;
+   
+    font-size: 20px;
+}
+
+.container1{
+    height: auto;
+    width: 500px;
+    float: right;
+    /* border: 2px solid black; */
+    margin-right: 200px;
+    
+  
+}
+.contact{
+  height: 30px;
+  width: 220px;
+  background-color: white;
+  border-radius: 50px;
+  
+}
+.contact1{
+  height: 30px;
+  width: 500px;
+  background-color: white;
+  border-radius: 50px;
+  
+}
+.contact2{
+  height: 200px;
+  width: 500px;
+  background-color: white;
+  border-radius: 50px;
+  
+}
+.logos{
+  margin-right: 50px;
+}
+.map{
+  width: 1000px;
+
+}
+.bn53 {
+  background-color: #b81515;
+  padding: 7px;
+  width: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  animation: bn53bounce 4s infinite;
+  cursor: pointer;
+}
+
+@keyframes bn53bounce {
+  5%,
+  50% {
+    transform: scale(1);
+  }
+
+  10% {
+    transform: scale(1);
+  }
+
+  15% {
+    transform: scale(1);
+  }
+
+  20% {
+    transform: scale(1) rotate(-5deg);
+  }
+
+  25% {
+    transform: scale(1) rotate(5deg);
+  }
+
+  30% {
+    transform: scale(1) rotate(-3deg);
+  }
+
+  35% {
+    transform: scale(1) rotate(2deg);
+  }
+
+  40% {
+    transform: scale(1) rotate(0);
+  }
+}
+
+/*skills*/
+progress {
+    accent-color: rgb(0, 0, 0);
+  }
+  progress[value] {
+    width: 500px;
+    height: 40px;
+  }
+  .s-font{
+    font-size: 20px;
+    line-height: 2.0;
+  }
+  .skills{
+    margin-left: 120px;
+  }
+  .contain{
+    margin-top: 80px;
+  }
+  .part{
+    float: left;
+    height: auto;
+    width: 600px;
+  }
+  .ab1{
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/*project*/
+.main_conta{
+  height: 250px;
+  width: 1000px;
+  float: left;
+  font-size: 22px;
+  margin-top: 25px;
+}
+.main_pro{
+    padding-left: 50px;
+    margin-top: 50px;
+}
+.img_pro{
+  width: 250px;
+  height: 250px;
+}
+
+
+.intro_1{
+  width: 300px;
+  height: 300px;
+  margin-left: 300px;
+}
+
+
+
+/* .bn30 {
+  border: 5em;
+  cursor: pointer;
+  outline: none;
+  font-size: 16px;
+  -webkit-transform: translate(0);
+  transform: translate(0);
+  background-image: linear-gradient(45deg, #4568dc, #b06ab3);
+  padding: 0.7em 2em;
+  border-radius: 65px;
+  box-shadow: 1px 1px 10px rgba(255, 255, 255, 0.438);
+  -webkit-transition: box-shadow 0.25s;
+  transition: box-shadow 0.25s;
+  color: white;
+}
+
+.bn30 .text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(45deg, #4568dc, #b06ab3);
+}
+
+.bn30:after {
+  content: "";
+  border-radius: 18px;
+  position: absolute;
+  margin: 4px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  background: #0e0e10;
+}
+
+.bn30:hover {
+  background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
+  box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+}
+
+.bn30:hover .text {
+  background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
+} */
