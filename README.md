@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> I an harshada</h1>
+<h1> I am harshada</h1>
     <head>
         <title>Portfolio</title>
         <link rel="stylesheet" type="text/css" href="home.css">
