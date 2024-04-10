@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadazade22&label=Profile%20views&color=0e75b6&style=flat" alt="harshadazade22" /> </p>
 
+<div style="float: right;">
+    <img src="https://media1.giphy.com/media/hpXdHPfFI5wTABdDx9/200w.gif">
+</div>
+
 - 🌱 I’m currently learning **Python , HTML ,CSS ,Django**
 
 - 📫 How to reach me **hzade22@gmail.com**
